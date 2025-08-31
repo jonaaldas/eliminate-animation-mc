@@ -5,7 +5,6 @@
 Shut your mac down, turn it back on holding power button until you see, startup options text on screen.
 
 Then type in your password and proceed with opening up a terminal session.
-
 type in:
 !!! warning 
 	csrutil disable
